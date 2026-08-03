@@ -1,5 +1,5 @@
 ---
-title: index
+title: Geovian Home
 author: Geovian
 description: Home Page
 created: 2026-07-24
