@@ -22,3 +22,10 @@ Mostly, this will be a News blog and reference site of things I take an interest
 Our focus is mainly on Australian and New Zealand business communities.
 
 Regards "Geovian"
+
+Website built using the following:
+- Obsidian (markdown files creation)
+- Git (local machine commands, initialize, commit, push etc)
+- GitHub repo
+- Retype (GitHub Actions)
+- GitHub Pages (live publishing)
