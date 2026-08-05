@@ -1,7 +1,11 @@
 input: .
 output: .retype
 
+<<<<<<< HEAD
 url: https://glorydazer63.github.io/geovian# Use your website address here
+=======
+url: glorydaze63.github.io/geovian # Use your website address here
+>>>>>>> 1333e0cdb38b1cb14aa2a6cde756bb35f8c838eb
 
 start:
   # index
@@ -19,4 +23,7 @@ links:
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+<<<<<<< HEAD
   build specs: "Obsidian: 1.4.3, NodeJS: v26, RetypeCMS, GitHub"
+=======
+>>>>>>> 1333e0cdb38b1cb14aa2a6cde756bb35f8c838eb
