@@ -1,18 +1,17 @@
 ---
 title: readbtwnthelines
 author: Geovian
-description:
+description: Reading Between The Lines (Job Adverts)
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # Reading Between The Lines (Job Adverts)
 
-![[jobads.jpg]]
+<img src="assets/jobads.jpg" />
 
-<color orange>Trying to make sense of the gobbledegook of job vacancy ads.</color>
+_Trying to make sense of the gobbledegook of job vacancy ads._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** 13 October 2024
 
 ## Introduction

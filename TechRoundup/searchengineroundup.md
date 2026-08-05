@@ -1,18 +1,17 @@
 ---
 title: searchengineroundup
 author: Geovian
-description:
+description: Search Engine Round Up early 2025
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # Search Engine Round Up early 2025
 
-![[searchengines.jpg]]
+<img src="assets/searchengines.jpg" />
 
-<color orange>Listed below is the current state of play with the worlds most popular and active search engines.</color>
+_Listed below is the current state of play with the worlds most popular and active search engines._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** 17 March 2025
 
 ## Introduction

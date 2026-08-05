@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: 32zrx-x5ifo
+created: 2026-07-26T15:16:38+12:00

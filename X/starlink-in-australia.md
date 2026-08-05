@@ -1,18 +1,17 @@
 ---
 title: starlink-in-australia
 author: Geovian
-description:
+description: Starlink in Australia
 created: 2026-07-24
-modified: 2026-07-29
+modified: 2026-08-06
 ---
-
 # Starlink in Australia
 
-![[starlink01b.png]]
+<img src="assets/starlink01b.png" />
 
-<color orange>We're midway through 2024 and things are starting to heat up in the Starlink space.</color>
+_We're midway through 2024 and things are starting to heat up in the Starlink space._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** July 21 2024
 
 _[Originally written in 2020]_

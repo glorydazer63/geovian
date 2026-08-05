@@ -1,18 +1,17 @@
 ---
 title: blog_old-school
 author: Geovian
-description:
+description: Going Old School
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # Going Old School
 
-![[tech:oldschool.jpg]]
+<img src="assets/oldschool.jpg" />
 
-<color orange>Like many, I've had enough virtual intrusion from the likes of Fakebook, Google, Twitter, %%YouTube%% and many other big tech players. So some of us are doing something about it. We're going back to the future: going old school.</color>
+_Like many, I've had enough virtual intrusion from the likes of Fakebook, Google, Twitter, YouTube and many other big tech players. So some of us are doing something about it. We're going back to the future: going old school._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Updated:** 5 November 2024
 
 ## Back to the Future?
@@ -50,7 +49,7 @@ So you want to do Internet stuff. Well don't do it on a phone if you are really 
 
 How about installing a **custom ROM** like Lineage or Calyx? Unfortunately this is easier said than done, as the entire procedure is not for the faint hearted. It involves a number of steps including rooting your phone, finding the right custom ROM that matches your phone (say Lineage OS), and then there's the tricky procedure of overriding your existing Android build with the custom one. Many a phone has been bricked by attempting to install a custom ROM with disastrous consequences. You should only ever attempt this if you truly know what you are doing.
 
-As at late 2021, **Linux phones** are now a thing, though in its infancy and still not mature enough to be a viable proposition. So, devices like the PinePhone and Librem5 are the best known of this new brigade but they have a long way to go before reaching mass acceptance let alone a breakeven point.
+As at late 2021, **Linux phones** are now a thing, though in its infancy and still not mature enough to be a viable proposition. So, devices like the UbuntuTouch, PinePhone and Librem5 are the best known of this new brigade but they have a long way to go before reaching mass acceptance let alone a breakeven point.
 
 Let's not forget that 2022 is supposed to be the year of the **Quantum phone**, or so we've been told. We'll be keeping an eye on that space for sure. Step on up Elon Musk.
 
@@ -69,7 +68,7 @@ If you are **torrenting**, it's essential that you use a VPN to disguise your re
 
 And finally, if you are one of those people who surfs naked around the Internet mostly on a smartphone, then you definitely need to install a **No Root Firewall** on your device, to prevent Google and other Big Tech companies from pinging your device and taking YOUR data. Once installed it's easy to set up and easy to switch off all apps and services from communicating with home base, and only allow those by whitelisting. ET phone home? Not in this case.
 
-<color orange>Note: Unfortunately you cannot use No Root Firewall alongside an existing VPN app that you have on your phone. All smartphones have a single VPN Port so you can't have two applications running on one port.</color>
+> Note: Unfortunately you cannot use No Root Firewall alongside an existing VPN app that you have on your phone. All smartphones have a single VPN Port so you can't have two applications running on one port.
 
 Search for No Root Firewall on the Play Store, F-Droid or an APK repository like Aptoide.
 

@@ -1,24 +1,23 @@
 ---
 title: phone-vs-laptop
 author: Geovian
-description:
+description: Your Phone as a Computer
 created: 2026-07-24
-modified: 2026-07-28
+modified: 2026-08-06
 ---
-
 # Your Phone as a Computer
 
-![[phonevcomp.jpg]]
+<img src="assets/phonevcomp.jpg" />
 
-<color orange>Do you have a flash state of the art phone? Do you want it to be your first device of choice and to be able to use it as your laptop too? Then read on.</color>
+_Do you have a flash state of the art phone? Do you want it to be your first device of choice and to be able to use it as your laptop too? Then read on._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** 10 April 2021
 
 ## Introduction
 For far too long the business world has lived in a duopoly environment of mobile phones and computers - be it desktops, laptops and tablets. From my perspective it's an incredible waste of money, not forgetting the huge amounts of E-waste that is created every year. 
 
-Having seperate devices back in the early days was definitely warranted, as mobile phone specifications were very basic, certainly not as sophisticated as they are today. However, the perceived gap between the usage on a state of the art mobile versus a laptop for instance - is being bridged slowly but surely. One of the mobile phone's features that is helping pave the way is a bit of functionality in the Google/Android space, it's something called <color pink>Desktop Mode</color>.
+Having seperate devices back in the early days was definitely warranted, as mobile phone specifications were very basic, certainly not as sophisticated as they are today. However, the perceived gap between the usage on a state of the art mobile versus a laptop for instance - is being bridged slowly but surely. One of the mobile phone's features that is helping pave the way is a bit of functionality in the Google/Android space, it's something called <span style="color:rgb(255, 0, 0)">Desktop Mode</span>.
 
 ## Desktop Mode
 This feature has been around for a little while, but has been given very little love by the software Engineers at Google. It is part of the Android ecosystem including the latest version 11 but really Google is asking for the phone manufacturers to take the functionality already there and improve upon it with a bit of spit and polish on their own flagship phones.
@@ -56,8 +55,7 @@ We wrote briefly about keyboards and mice in the previous section. There are fou
   - If you don't want to use a lapdesk then perhaps a keyboard which has a monitor slot or Groove at the front of it much like the Logitech K780 keyboard could be the answer. I have one of those Logitech keyboards and it works great, in fact I can actually put a phone and tablet in the slot and it does the job.
   - If you are going to be using your keyboard and mouse alongside your flash new lapdesk (as described above), just be careful about the length of the keyboard because it may actually be longer than the lapdesk itself, meaning there is no room for the mouse to be placed. Unless of course you are using a keyboard kitted out with a trackpad.
   
-![[k780.webp]]
-
+<img src="assets/k780.webp" />
 Logictech K780 keyboard with device slot along the top.
 
 ### Connectivity to the Internet
@@ -81,16 +79,16 @@ It would be remiss of me to not make mention of some portable monitors that I wo
 ### Nexdock 360
 Nexdock is an American company that has produced so far, four iterations of its portable monitor range, for which the 360 is the most current. It's full-bore touchscreen with a hinge that allows for the two surfaces (screen and keyboard) to completely fold over 360°, hence the name.
 
-![[nexdock360.webp]]
+<img src="assets/nexdock360.webp" />
 
 It's obvious to me that Nexdock have some great products but they come with a few caveats:
 
   - The company initially got underway through a crowd funding initiative, and as with most ventures like this, were mostly supporting those who had participated via pre-order, meaning that there was very little product left to be onsold to the public. You know the deal right? You have to be in to win.
   - As a consequence, Nexdock do not have extensive market coverage. They are essentially just selling from their own website. They do not sell via any of the big e-commerce chains, and its unclear what their supply capacity is.
   - I have heard claims from people online about the delays in getting the product delivered to them on time. Some of the delays were incredibly long, in one case over a year. That in itself would be enough to make me look elsewhere.
-  - Some people (particularly from those living outside the USA) would consider the unit cost to be pricey, especially compared to what you can find on %%AliExpress%%. For instance, Chinese products can be sold for half the price, but as they say, you get what you pay for, and in some cases you don't get anything for what you paid for because it never turned up! Lol!
+  - Some people (particularly from those living outside the USA) would consider the unit cost to be pricey, especially compared to what you can find on AliExpress. For instance, Chinese products can be sold for half the price, but as they say, you get what you pay for, and in some cases you don't get anything for what you paid for because it never turned up! Lol!
   
-Link: https://nexdock.com
+[Link](https://nexdock.com)
   
 ### Uperfect
 Perhaps the pick of the Chinese manufacturers is Uperfect. They are represented all over the Internet, and if you do a Google search or go prowling through YouTube, you will see a dazzling array of videos and ads that are colourful and enticing. Obviously their marketing department is doing a good job but from what I can tell their products are also pretty decent too, but it depends on who you talk to.
@@ -101,9 +99,9 @@ On AliExpress you can pick up a decent touchscreen like the [12.3" Model](https:
 
 That model isn't available on Amazon but I know that particular model is sold directly from the Uperfect website at US$195 (or currently A$267 on the US to Australian exchange rate), plus they don't charge for shipping or taxes whereas AliExpress do.
 
-So my recommendation is that you'd be better off dealing directly with the manufacturer instead, rather than dodgy sellers on ecommerce platforms because you're dealing direct with the manufacturer and it will ship faster.
+So my recommendation is that you'd be better off dealing directly with the manufacturer instead, rather than dodgy sellers on e-commerce platforms because you're dealing direct with the manufacturer and it will ship faster.
 
-Link: https://uperfectmonitor.com
+[Link](https://uperfectmonitor.com)
 
 Note: As at 2023, Uperfect no longer manufactures the 12.3 model. Nor even the 13.3 model. Bigger spec monitors are now available at reasonable prices, check the website above.
 
@@ -125,6 +123,6 @@ I haven't seen anything that's within my criteria (mainly price), but if I sudde
 ## That's a wrap
 The ability to use a phone with a portable monitor is somewhat limited by phone manufacturers at large not providing desktop mode. Only a handful currently do. Also, older phones that only have a MicroUSB socket might not be able to take advantage. I may be proven to be incorrect on that, considering older phones can connect to external devices via OTG but the connection can be erratic due to frequent dropouts. 
 
-One of the advantages of using USB-C is that transfer speeds between devices is much faster. I'm very interested in using the %%RaspberryPi%% device to hook up to a portable monitor. It would be the equivalent of using a Samsung Galaxy Tab, but the RPi solution with a 12.3" or 13.3" monitor is slightly larger and cheaper, and more flexible in terms of the different Linux ARM distros you can load up.
+One of the advantages of using USB-C is that transfer speeds between devices is much faster. I'm very interested in using the RaspberryPi device to hook up to a portable monitor. It would be the equivalent of using a Samsung Galaxy Tab, but the RPi solution with a 12.3" or 13.3" monitor is slightly larger and cheaper, and more flexible in terms of the different Linux ARM distros you can load up.
 
 Good luck in your search. 

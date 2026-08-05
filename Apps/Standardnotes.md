@@ -1,18 +1,17 @@
 ---
 title: Standardnotes
 author: Geovian
-description:
+description: Standard Notes App
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # Standard Notes - Use Web Option
 
-![[standardnotes.webp]]
+<img src="assets/standardnotes.webp" />
 
-<color orange>If you're a Web Netizen, there's every likelihood that you accumulate all manner of digital information. The glue that holds it together for me is the note taking app Standard Notes.</color>
+_If you're a Web Netizen, there's every likelihood that you accumulate all manner of digital information. The glue that holds it together for me is the note taking app Standard Notes._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** 17 October 2024
 
 ## Introduction
@@ -43,4 +42,4 @@ There are numerous advantages to this approach.
 Standard Notes direct competitor would be Evernote. The pervasive nature of Evernote's business model means I will probably never sign on with them again.
 I use the Standard Notes annual subscription, but you can use it for free if you so wish. It's a critical piece of my small business model toolkit, paying a sub is not an inconvenience.
 
-Check them out at:  https://standardnotes.com.
+Check them out at:  [Link](https://standardnotes.com)

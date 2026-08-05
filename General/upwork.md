@@ -1,18 +1,17 @@
 ---
 title: upwork
 author: Geovian
-description:
+description: Upwork, or Downwork?
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # Upwork, or Downwork?
 
-![[biz:upwork.jpg]]
+<img src="assets/upwork.jpg">
 
-<color orange>Upwork maybe the biggest Freelancer community on the planet, but boy does it have some issues going on. Poor customer service being top of the list.</color>
+_Upwork maybe the biggest Freelancer community on the planet, but boy does it have some issues going on. Poor customer service being top of the list._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** 20 August 2023
 
 ## At the Beginning
@@ -42,3 +41,5 @@ The support forum is awash with customer complaints on just about every topic im
 The feedback on **Reddit** is off the charts. They are far more cruel over there than I am. 
 
 It's unfortunate, but as a small business owner myself, I and many others are going to look at other freelance marketplaces. I've quickly assessed about 20 so far. I'll talk about those in another post soon.
+
+[Upwork Link](https://upwork.com)

@@ -1,18 +1,17 @@
 ---
-title:
+title: backing-up-your-web-data
 author: Geovian
-description:
+description: Backing Up Your Web Data
 created: 2026-07-24
-modified: 2026-07-29
+modified: 2026-08-06
 ---
-
 ## Backing Up Your Web Data
 
-![[databackup.jpg]]
+<img src="assets/databackup.jpg" />
 
-<color orange>The Internet back-chatter is all a flurry at the moment about the current version of the Internet potentially closing down completely and replaced by something new. A bit of a doomsday scenario I know but what if, it did go down, then what happens to your data wherever it is stored?</color>
+_The Internet back-chatter is all a flurry at the moment about the current version of the Internet potentially closing down completely and replaced by something new. A bit of a doomsday scenario I know but what if, it did go down, then what happens to your data wherever it is stored?_
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Updated:** 5 November 2024
 
 ### The effectiveness of the Cloud
@@ -36,7 +35,7 @@ The second part is the infrastructure, and this is where it gets tricky, unless 
 
 Despite all this, when creating a website part of your planning process should include a **continuity of operation strategy**. Which quite simply means having the ability to restore your website from scratch in case something untoward happens. And by 'scratch', this means you have access to your up-to-date content and infrastructure in an offline capacity, so that such a restore can take place without relying on the vagaries of a cloud backup. My motto simply is:
 
-<color cyan>**"if your data is not in your direct hands then it's not in your control."**</color>
+> **"if your data is not in your direct hands then it's not in your control."**
 
 In one of my situations, I have had web data online since 1999, and I am absolutely anal about saving the content offline at all times. Never have I had to worry about losing any of it because I've got it backed up in different places both online and offline in case of emergencies. Some might consider it to be a little bit paranoid, but it gives me peace of mind and more importantly I know that it will save me money in the long run if a full blown restore is required. Losing 22 years of content is not to be contemplated. As it is, I have the technical capabilities to do it myself but that's something other small business owners might not be able to do.
 

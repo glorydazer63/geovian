@@ -3,14 +3,13 @@ title: Invidious
 author: Geovian
 description: YouTube replacement
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # Invidious Video Player
 
-<color orange>Are you a YouTube addict but not a fan of Google's orwellian overreach on your privacy? There is a solution and it's called Invidious.</color>
+_Are you a YouTube addict but not a fan of Google's orwellian overreach on your privacy? There is a solution and it's called Invidious._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** 15 October 2020
 
 ## What is Invidious

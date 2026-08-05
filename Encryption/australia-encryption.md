@@ -1,18 +1,17 @@
 ---
 title: australia-encryption
 author: Geovian
-description:
+description: Encryption in Australia
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 ## Australian Government - 'pie in the sky' on Encryption
 
-![[austgovt.jpg]]
+<img src="assets/austgovt.jpg" />
 
-<color orange>Knowing what I know about Government, if I had my way I'd sack all Parliaments, all Governments and all public servants and we can start again from scratch.</color>
+_Knowing what I know about Government, if I had my way I'd sack all Parliaments, all Governments and all public servants and we can start again from scratch.
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** June 20, 2021
 
 They just cannot be trusted to do the right thing on behalf of the people that they're supposed to be serving. This is definitely a case of cart before horse.

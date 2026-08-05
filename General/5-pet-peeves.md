@@ -1,16 +1,15 @@
 ---
 title: 5-pet-peeves
 author: Geovian
-description:
+description: 5 Pet Peeves
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
+<img src="assets/5petpeeves.jpg" />
 
-![[5petpeeves.jpg]]
+_Modern society is so immersed in technology these days, but it doesn't take long for something to irk someone. What is your tech related pet peeve?_
 
-<color orange>Modern society is so immersed in technology these days, but it doesn't take long for something to irk someone. What is your tech related pet peeve?</color>
-
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** 10 July 2020
 
 ## It's not all that bad, isn't it?
@@ -56,4 +55,3 @@ If a serious media researcher was to do an analysis of where people get their ne
 
 ### In Summary
 What are your pet peeves? Drop us a line in the Comments section below.
-

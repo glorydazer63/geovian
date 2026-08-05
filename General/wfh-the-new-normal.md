@@ -1,18 +1,17 @@
 ---
 title: wfh-the-new-normal
 author: Geovian
-description:
+description: Work From Home - The New Normal?
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # Work From Home - The New Normal?
 
-![[workfromhome.jpg]]
+<img src="assets/workfromhome.jpg" />
 
-<color orange>You can thank the COVID response and forced lockdowns for demonising the global workforce into 'working from home', a term now abbreviated to WFH.</color>
+_You can thank the COVID response and forced lockdowns for demonising the global workforce into 'working from home', a term now abbreviated to WFH._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** 17 October 2021
 
 ## Introduction
@@ -58,4 +57,4 @@ Why? Because firstly, they've seen from observing their parents and grandparents
 
 Being able to do all this working from home is the icing on the cake.
 
-<color orange>Do you work from home? Would you like to share your experience with us. Get in touch with us via our Contact Us Page (see left Sidebar if on desktop, or top Sidebar box if viewing on mobile).</color>
+<span style="color:rgb(255, 192, 0)">Do you work from home? Would you like to share your experience with us. Get in touch with us via our Contact Us Page (see left Sidebar if on desktop, or top Sidebar box if viewing on mobile).</span> 

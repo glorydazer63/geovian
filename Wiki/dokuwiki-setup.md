@@ -1,18 +1,17 @@
 ---
 title: dokuwiki-setup
 author: Geovian
-description:
+description: "# DokuWiki Setup Process"
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # DokuWiki Setup Process
 
-![[dwlogo.png]]
+<img src="assets/dwlogo.png" />
 
-<color orange>Explaining our DokuWiki setup process.</color>
+_Explaining our DokuWiki setup process._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Updated:** 5 November 2024
 
 Here's a quick explainer as to how we set our DokuWiki instance up on our web server.

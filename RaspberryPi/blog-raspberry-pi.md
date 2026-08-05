@@ -1,18 +1,17 @@
 ---
 title: blog-raspberry-pi
 author: Geovian
-description:
+description: RaspberryPi Phenomenon
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # RaspberryPi Phenomenon
 
-![[rpi.jpg]]
+<img src="assets/rpi.jpg" />
 
-<color orange>The more I look into the Raspberry Pi phenomenon, the more excited I get.</color>
+_The more I look into the Raspberry Pi phenomenon, the more excited I get._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Updated:** 5 November 2024
 
 Being on the road, a resource hungry device like a laptop is just not a workable solution considering its requirement for AC power, that is unless you have a hefty portable power station (with an inbuilt inverter).
@@ -42,13 +41,13 @@ So, my basic setup is:
   - Lapdesk.
   - Smartphone with WiFi hotspot and tethering.
   
-Note: when installing a new distro onto a RaspberryPi, you'll initially require a USB wired keyboard. The Bluetooth services don't become available until after you have installed the distro. 
+>When installing a new distro onto a RaspberryPi, you'll initially require a USB wired keyboard. The Bluetooth services don't become available until after you have installed the distro. 
 
 **Additions**
 Maybe the one thing I might think about is a portable WiFi router, but I'll hold off in the meantime and wait to see what happens with Starlink during the first few months of 2025.
 
 And there we go!
 
-The other main reason for looking at an RPi solution is that it is supported in Australiand New Zealand, meaning that delivery costs are minimal.
+The other main reason for looking at an RPi solution is that it is supported in Australia and New Zealand, meaning that delivery costs are minimal.
 
 **Footnote:** the RPi kit now has a fan cooled case by default.

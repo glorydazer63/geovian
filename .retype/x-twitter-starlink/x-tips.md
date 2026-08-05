@@ -1,18 +1,10 @@
----
-title: x-tips
-author: Geovian
-description:
-created: 2026-07-24
-modified: 2026-07-27
----
-
 # X/Twitter - Some Useful Productivity Tips
 
 ![[x-logo.jpg]]
 
 <color orange>Back in 2017 I left Facebook. Immediately cutting off access to family and friends but steadfast in my refusal to bend the knee to Darth Zuckerberg. Instead I moved to Twitter, now X.</color>
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:**  31 January 2023
 
 ## In the Beginning

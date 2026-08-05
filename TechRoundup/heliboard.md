@@ -1,18 +1,17 @@
 ---
 title: heliboard
 author: Geovian
-description:
+description: The Heliboard Virtual Keyboard
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # The Heliboard Virtual Keyboard
 
-![[heliboard.png]]
+<img src="assets/heliboard.png" />
 
-<color orange>If you're using your mobile phone for writing and editing, then s virtual keyboard is essential. Some are better than others, including the excellent Heliboard.</color>
-----
-**Written By:** Geovian\
+_If you're using your mobile phone for writing and editing, then s virtual keyboard is essential. Some are better than others, including the excellent Heliboard._
+
+**Written By:** Geovian
 **Date:** 17 March 2025
 
 ## Introduction
@@ -45,7 +44,7 @@ Fourthly, you will have to add in a plugin to activate voice to text input. This
 
 The Futo app is visible in the top toolbar via the microphone icon. At least being placed here at the top rather than being placed inside the comma character key (as it was on the Microsoft Swift keyboard) means that it is safely out of the way.
 
-![[heliboard_voice.png]]
+<img src="assets/heliboard_voice.png" />
 
 ### Notes snd Observations
 Having most recently worked with Microsoft's Swift keyboard, I had to get used to some configuration changes regarding the placement of character keys and also to the design of emoji characters. These are mostly cosmetic in nature.
@@ -54,3 +53,5 @@ One of the things that appears to be missing which I found quite valuable on the
 
 ### In Summary
 Overall Heliboard is a very useful addition to the OPSEC toolkit as s virtual keyboard, and one that meets the criteria of zero cost, open source and privacy.
+
+Available for download to your mobile at [Zapstore](https://zapstore.com)

@@ -1,18 +1,17 @@
 ---
 title: securing-your-business
 author: Geovian
-description:
+description: Securing your Business
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # Securing your Business
 
-![[bizlock.jpg]]
+<img src="assets/bizlock.jpg" />
 
-<color orange>If you don't trust Big 'Brother' Tech, there are SOMETHING solutions to protect both you and your business interests.</color>
+_If you don't trust Big 'Brother' Tech, there are SOMETHING solutions to protect both you and your business interests._
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Updated:** 25 March 2025
 
 ## Background
@@ -59,24 +58,24 @@ The following is an overview of some of the well known mail providers out there.
 
 **Protonmail and Tutanota** - two privacy respecting services, one out of Switzerland, the other from Germany. I've used them on/off over the years but because they are both encrypted systems.. apparently, they can't be used to download into a mail aggregator, like Thunderbird, K9 Mail or Mailspring for instance. Good for what they are, and even on their own, they present slightly better choices than Gmail, even if they advocate with  encryption which in all honesty is a load of hogwash. Both have free and paid accounts. Take your pick.
 
-https://ProtonMail.com\\
-https://Tutanota.com
+[ProtonMail Link](https://ProtonMail.com)
+[Tutanota Link](https://Tutanota.com)
 
 **GMX** - an email provider with a large user base mostly across Europe which like some other email providers I use, but I'm fairly ignorant as to whether my privacy is fully respected, but because they're a German provider, you do have EU protections in place which does provide a level of comfort I guess. I've tried to access my GMX mail via an external email aggregator but I wasn't able to get it to work due to encryption no doubt. It's free (as well as a paid version) and works well on desktop and mobile.
 
-Refer: https://gmx.com
+[GMX Link](https://gmx.com)
 
 **Mail.com** - it's free (obviously there's a paid plan too), and it comes with a whole bunch of cool features which might appeal to some of the readers here. You have the ability to set up a mailbox on any one of Mail.com's sub-domains, and there are a few of them. Mostly this is a good choice but like GMX above there's no ability to aggregate your mailbox from the system to another offsite solution like Thunderbird. 
 
-Refer: https://mail.com
+[Mail.com Link](https://mail.com)
 
 **Mailbox.org** - Mailbox is a family run email business out of Germany which I've been using since 2023. I use it for Email alias, it's my CALDAV and CARDAV Server central access point for all my devices, plus it has an encrypted Drive space which I use to upload my critical encrypted files to Mailbox's offsite location from my devices and my residence, just in case my phone or residence is compromised. more about Securing Offsite Backups in another to come.
 
-Refer: https://mailbox.org
+[Mailbox.org Link](https://mailbox.org)
 
 **Riseup** - for many years I've wanted to use this platform, but you need to be invited onto it. Because I knew no one that was using it, I couldn't get on. It does have a good privacy reputation, and for those that are successful in getting on, please let us know how it went.
 
-Refer: https://riseup.org
+[Risep Link](https://riseup.org)
 
 **Disroot** - I've recently signed on with this lot, based on three factors:
 
@@ -86,7 +85,7 @@ Refer: https://riseup.org
   
 However, I had problems getting past the account validation. There is a proviso, in that your account is vetted and approved within 48 hours of you signing up. Good luck to those that are successful.
 
-Refer: https://disroot.org
+[Disroot Link](https://disroot.org)
 
 **Your own domain and private email** - this is my preferred method of email, where you control the email configuration 100%. Creating your own domain isn't difficult to set up, and once done, setting the email up is even easier. Also, nearly 99.9% of the time, any mailboxes created under your domain can be aggregated into an all-in-one mailbox aggregator whether using something like Thunderbird on the desktop or any number of aggregator apps on Android (like BlueMail, TypeApp or K9) or iOS. I'll write up a tutorial specifically on this in the near future. 
 

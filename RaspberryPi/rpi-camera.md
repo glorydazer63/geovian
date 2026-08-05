@@ -1,16 +1,15 @@
 ---
 title: rpi-camera
 author: Geovian
-description:
+description: RaspberryPi Camera
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # RaspberryPi Camera
 
-![[rpicamera01.webp]]
+<img src="assets/rpicamera01.webp" />
 
-**Written By:** Geovian\
+**Written By:** Geovian
 **Date:** 4 April 2025
 
 ## Introduction
@@ -26,7 +25,7 @@ However, this new project using RaspberryPi resources has me intrigued. The came
 
 Refer to the Specifications link for full list of parts construction.
 
-![[rpicamera02.webp]]
+<img src="assets/rpicamera02.webp" />
 
 ## The Detail
 The overall premise of this RPI camera design was to make an instant camera with the ability to print photos onto sticker paper more or less instantly. It uses Python code to stitch everything together at the software level. 
@@ -41,5 +40,6 @@ Promotion of the camera has come about in the last few days thanks to an article
 The build project was quite challenging, according to **Spacerower**. As such there is no tutorial available so that users can design one themselves. Not yet, at least anyway.
 
 ## Links:
-[Camera Specifications](https://www.printables.com/model/1247692-pi-zero-based-instant-camera)\\
+[Camera Specifications](https://www.printables.com/model/1247692-pi-zero-based-instant-camera)
+
 [Tom's Hardware article](https://www.tomshardware.com/raspberry-pi/this-raspberry-pi-zero-camera-instantly-prints-photos-using-thermal-paper)

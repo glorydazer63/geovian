@@ -1,19 +1,18 @@
 ---
 title: private-dns
 author: Geovian
-description:
+description: Private DNS Using Adguard
 created: 2026-07-24
-modified: 2026-07-27
+modified: 2026-08-06
 ---
-
 # Private DNS Using Adguard
 
-![[privatedns.png]]
+<img src="assets/privatedns.png" />
 
-<color orange>Explaining how to set up Private DNS on your devices.</color>
+_Explaining how to set up Private DNS on your devices._
 
-**Written By:** Geovian\
-**Updated:** 10 Deceember 2024
+**Written By:** Geovian
+**Updated:** 10 December 2024
 
 ## Background
 Here's a quick explainer as to how we set up Private DNS for both your mobile device and your browser. Private DNS as an innovative piece of security technology is relatively new. It's been around in various guises since around 2016 or 2017 but nowadays has developed to be an important part of an internet users privacy and security toolkit.
@@ -25,7 +24,7 @@ An example of a tracker code is one that's found on a YouTube url if you copy a 
 <code>https://youtube.com/watch?v=3TpSoR189Wo&pp=ygUPVGVycmEgZGVsIGZ1ZWdv</code>
 
 If you didn't know any better you'd copy the whole URL onto one of your own web pages and be none the wiser for the code that you've just embedded with tracking on it. Just strip out anything after the 
-<color pink>&pp</color> code.
+<span style="color:rgb(0, 176, 80)">&pp</span> code.
 
 Not only that, but corporate websites are also mining your user data through cleverly concealed ads that they put on their web pages through images, icons and hidden links. Filling out online forms is particularly dangerous, especially if financial information is required. Always err on the side of caution, because surreptitious harvesting is always happening.
 
@@ -49,10 +48,11 @@ So, we'll focus on Adguard as this is definitely a good option for mobile users 
 Before we get started, Adguard have put up a page which identifies all of the devices and platforms where Private DNS is supported.
 
 [click here](https://adguard-dns.io/kb/private-dns/connect-devices)
+
 There are instructions for the iPhone, but because I don't use Apple products I'll focus on Android for this particular article.
 
 ### Steps
-![[privatedns_mobile.png]]
+<img src="assets/privatedns_mobile.png" />
 
 **Enable Private DNS:**\\
  - Go to Settings > Network & Internet > 
@@ -65,9 +65,11 @@ There are instructions for the iPhone, but because I don't use Apple products I'
 **Configure DNS-over-TLS:**\\
 Since Android 13 only supports DNS-over-TLS (DoT), you won’t need to configure any additional settings. There is nothing more for you to do here.
 
-[Note:] AdGuard Private DNS can work alongside a third party VPN or you can use Adguard's own VPN so that the two products can work alongside each other.
+>Note 1
+>AdGuard Private DNS can work alongside a third party VPN or you can use Adguard's own VPN so that the two products can work alongside each other.
 
-[Note 2:] Private DNS was introduced into the Android operating system via the Android 13 update. If you have an old phone you'll need to see if it's original manufacture and software install are either before or after Android 13. All modern phones going back at least 5 years should be compatible.
+>Note 2
+>Private DNS was introduced into the Android operating system via the Android 13 update. If you have an old phone you'll need to see if it's original manufacture and software install are either before or after Android 13. All modern phones going back at least 5 years should be compatible.
 
 ## Private DNS with a Browser
 Modern browsers can definitely support Private DNS but there is a caveat and users need to be aware of these.
@@ -96,12 +98,13 @@ Some might consider this a additional superfluous step but nonetheless you can d
 <code>https://dns.adguard-dns.com/dns-query</code>
 ```
 
-![[privatedns_brave.jpg]]
+<img src="assets/privatedns_brave.jpg" />
 
 You don't need to save it, the setting is already saved once you've entered the URL. That's it.
 
 ## In Summary
 Occasionally, very occasionally, the Private DNS connection might go down for some reason. If it does, you can go back to your Internet Settings and just deactivate it, then bring it up for air later on.
 
-If you want to test Private DNS, switch it off and then hover around some websites where you know where Ads are. Then go back and switch Private DNS back 9n and check the Ad behavior of those websites again.
+If you want to test Private DNS, switch it off and then hover around some websites where you know where Ads are. Then go back and switch Private DNS back on and check the Ad behavior of those websites again.
+
 Good luck.
