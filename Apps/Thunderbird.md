@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 # Thunderbird - The Eagle Has Landed!
 
-<img src="assets/thunderbird.png" />
+<img src="/assets/thunderbird.png" />
 
 _It's taken years for Mozilla to land this bird onto Mobile. Finally Thunderbird (the mail client) has  perched itself onto Android._
 
