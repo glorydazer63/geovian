@@ -24,7 +24,7 @@ By 2024, the momentum had ramped up. Thunderbird development was taking off. The
 ## The Detail
 The beauty of the Thunderbird client was that it was a number of different functions all rolled into one system. We had email, a contact manager and address book, an integrated calendar, and task manager. Plus all the various plugins that could be integrated into the system.
 
-<img src="thunderbird_biz.jpg" />
+<img src="/assets/thunderbird_biz.jpg" />
 
 Now in Android you can get those separate functions on separate apps. At this stage Thunderbird team have not got around to integrating all four functions into the one app. That would be a bit of work, and I'm not so sure that they'll get around to doing that anyway. as they have publicly indicated.
 
