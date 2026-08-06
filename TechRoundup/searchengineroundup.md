@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 # Search Engine Round Up early 2025
 
-<img src="/assets/searchengines.jpg" />
+!(/assets/searchengines.jpg)
 
 _Listed below is the current state of play with the worlds most popular and active search engines._
 

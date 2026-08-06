@@ -1609,7 +1609,7 @@ var require_react_development = __commonJS({
             } else if (isArray(type)) {
               typeString = "array";
             } else if (type !== void 0 && type.$$typeof === REACT_ELEMENT_TYPE) {
-              typeString = "<" + (getComponentNameFromType(type.type) || "Unknown") + " />";
+              typeString = "<" + (getComponentNameFromType(type.type) || "Unknown") + )";
               info = " Did you accidentally export a JSX literal instead of a component?";
             } else {
               typeString = typeof type;
@@ -17362,7 +17362,7 @@ var require_react_dom_development = __commonJS({
                 error('"%s" is not a supported value for tail on <SuspenseList />. Did you mean "collapsed" or "hidden"?', tailMode);
               } else if (revealOrder !== "forwards" && revealOrder !== "backwards") {
                 didWarnAboutTailOptions[tailMode] = true;
-                error('<SuspenseList tail="%s" /> is only valid if revealOrder is "forwards" or "backwards". Did you mean to specify revealOrder="forwards"?', tailMode);
+                error('<SuspenseList tail="%s) is only valid if revealOrder is "forwards" or "backwards". Did you mean to specify revealOrder="forwards"?', tailMode);
               }
             }
           }
@@ -17403,7 +17403,7 @@ var require_react_dom_development = __commonJS({
                     }
                   }
                 } else {
-                  error('A single row was passed to a <SuspenseList revealOrder="%s" />. This is not useful since it needs multiple rows. Did you mean to pass multiple children or an array?', revealOrder);
+                  error('A single row was passed to a <SuspenseList revealOrder="%s). This is not useful since it needs multiple rows. Did you mean to pass multiple children or an array?', revealOrder);
                 }
               }
             }
