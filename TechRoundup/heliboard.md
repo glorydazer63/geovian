@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 # The Heliboard Virtual Keyboard
 
-<img src="assets/heliboard.png" />
+<img src="/assets/heliboard.png" />
 
 _If you're using your mobile phone for writing and editing, then s virtual keyboard is essential. Some are better than others, including the excellent Heliboard._
 
@@ -44,7 +44,7 @@ Fourthly, you will have to add in a plugin to activate voice to text input. This
 
 The Futo app is visible in the top toolbar via the microphone icon. At least being placed here at the top rather than being placed inside the comma character key (as it was on the Microsoft Swift keyboard) means that it is safely out of the way.
 
-<img src="assets/heliboard_voice.png" />
+<img src="/assets/heliboard_voice.png" />
 
 ### Notes snd Observations
 Having most recently worked with Microsoft's Swift keyboard, I had to get used to some configuration changes regarding the placement of character keys and also to the design of emoji characters. These are mostly cosmetic in nature.

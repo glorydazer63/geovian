@@ -5,7 +5,7 @@ description: 5 Pet Peeves
 created: 2026-07-24
 modified: 2026-08-06
 ---
-<img src="assets/5petpeeves.jpg" />
+<img src="/assets/5petpeeves.jpg" />
 
 _Modern society is so immersed in technology these days, but it doesn't take long for something to irk someone. What is your tech related pet peeve?_
 

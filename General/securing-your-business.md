@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 # Securing your Business
 
-<img src="assets/bizlock.jpg" />
+<img src="/assets/bizlock.jpg" />
 
 _If you don't trust Big 'Brother' Tech, there are SOMETHING solutions to protect both you and your business interests._
 

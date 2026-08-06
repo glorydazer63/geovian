@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 ## Australian Government - 'pie in the sky' on Encryption
 
-<img src="assets/austgovt.jpg" />
+<img src="/assets/austgovt.jpg" />
 
 _Knowing what I know about Government, if I had my way I'd sack all Parliaments, all Governments and all public servants and we can start again from scratch.
 

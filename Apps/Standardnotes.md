@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 # Standard Notes - Use Web Option
 
-<img src="assets/standardnotes.webp" />
+<img src="/assets/standardnotes.webp" />
 
 _If you're a Web Netizen, there's every likelihood that you accumulate all manner of digital information. The glue that holds it together for me is the note taking app Standard Notes._
 

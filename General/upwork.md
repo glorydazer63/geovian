@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 # Upwork, or Downwork?
 
-<img src="assets/upwork.jpg">
+<img src="/assets/upwork.jpg">
 
 _Upwork maybe the biggest Freelancer community on the planet, but boy does it have some issues going on. Poor customer service being top of the list._
 

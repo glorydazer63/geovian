@@ -5,6 +5,7 @@ description: YouTube replacement
 created: 2026-07-24
 modified: 2026-08-06
 ---
+
 # Invidious Video Player
 
 _Are you a YouTube addict but not a fan of Google's orwellian overreach on your privacy? There is a solution and it's called Invidious._
