@@ -7,7 +7,7 @@ created: 2026-07-24
 modified: 2026-08-06
 ---
 
-!(/assets/montage.jpg)
+[[assets/montage.jpg]]
 
 Welcome to the Geovian website.
 

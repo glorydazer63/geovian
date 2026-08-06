@@ -8,7 +8,7 @@ modified: 2026-08-06
 
 # DokuWiki Exploring New Tech
 
-!(/assets/dwlogo.png)
+[[assets/dwlogo.png]]
 
 _I'm like a kid in a candy store, seeing all the new developments happening on the technology front. And so it is with this platform DokuWiki._
 

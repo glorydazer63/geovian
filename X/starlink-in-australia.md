@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 # Starlink in Australia
 
-!(/assets/starlink01b.png)
+[[assets/starlink01b.png]]
 
 _We're midway through 2024 and things are starting to heat up in the Starlink space._
 

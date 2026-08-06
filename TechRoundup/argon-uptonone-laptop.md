@@ -6,7 +6,7 @@ created: 2026-07-24
 modified: 2026-08-06
 ---
 
-!(/assets/argon_uptonone.webp)
+[[assets/argon_uptonone.webp]]
 
 _One of the more exciting projects coming up in 2025 within the RaspberryPi world is the forthcoming Argon40 **Upton One** laptop._
 
@@ -20,14 +20,14 @@ For those unfamiliar with the company called Argon40, they are well known to Ras
 
 In 2025 this has extended to the laptop form factor called the **Upton One**, which has two groovy features including: a Compute Module 5 board. and a breakout GPIO dongle that will take the space on a single USB port.
 
-!(/assets/uptonone01.webp)
+[[assets/uptonone01.webp]]
 
 ## The Detail
 Some technoids already consider the Upton One to be a novelty project. But then again, most RPI projects are, so that's nothing new. The Laptop chassis appears to be quite thin, the Compute Module board slots into the underside. Keeping it cool will be of concern.But rest assured that keeping boards cool is Argon40's bread and butter.
 
 RaspberryPi uses dual 100-pin high-density connectors as it did on Compute Module 4, enabling a compatible upgrade to Compute Module 5. Conceivably Argon could upgrade the Upton One when the Compute Module 6 arrives if the 100-pin connectors are still in use. Word out there suggests the 100 pin config will remain. If so, the performance should be jaw dropping.
 
-!(/assets/uptonone02.webp)
+[[assets/uptonone02.webp]]
 
 The appeal here is being able to perform laptop activities without breaking the bank. Also, the power requirements will be much less. My guess is that it will utilise USB power, though what those specs actually are at this point is unknown.
 

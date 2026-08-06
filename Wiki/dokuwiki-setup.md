@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 # DokuWiki Setup Process
 
-!(/assets/dwlogo.png)
+[[assets/dwlogo.png]]
 
 _Explaining our DokuWiki setup process._
 
