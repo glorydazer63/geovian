@@ -5,13 +5,14 @@ description: DokuWiki Exploring New Tech
 created: 2026-07-24
 modified: 2026-08-06
 ---
+
 # DokuWiki Exploring New Tech
 
 <img src="/assets/dwlogo.png" />
 
 _I'm like a kid in a candy store, seeing all the new developments happening on the technology front. And so it is with this platform DokuWiki._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** June 22 2023
 
 It's not new, but boy does it pack some punches among its feature set, which saw a major upgrade in July 2020. DokuWiki has been around for a while and has gradually built up a following among its user base. Many of the bells and whistles have been adapted from other wiki platforms over the years and integrated into a single online solution.

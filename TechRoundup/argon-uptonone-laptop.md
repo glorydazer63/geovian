@@ -10,7 +10,7 @@ modified: 2026-08-06
 
 _One of the more exciting projects coming up in 2025 within the RaspberryPi world is the forthcoming Argon40 **Upton One** laptop._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 16 April 2025
 
 ## Introduction

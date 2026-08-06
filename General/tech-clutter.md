@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _How do you know when you've collected too many tech toys? If you don't toss them out, does that mean you're a hoarder? Lol.
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 22 September 2023
 
 ## The Clutter of Nightmares

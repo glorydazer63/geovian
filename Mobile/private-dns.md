@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _Explaining how to set up Private DNS on your devices._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Updated:** 10 December 2024
 
 ## Background

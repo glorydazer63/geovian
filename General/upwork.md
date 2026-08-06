@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _Upwork maybe the biggest Freelancer community on the planet, but boy does it have some issues going on. Poor customer service being top of the list._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 20 August 2023
 
 ## At the Beginning

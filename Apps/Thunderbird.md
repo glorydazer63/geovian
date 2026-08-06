@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _It's taken years for Mozilla to land this bird onto Mobile. Finally Thunderbird (the mail client) has  perched itself onto Android._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 20 October 2024
 
 ## Introduction

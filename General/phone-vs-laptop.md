@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _Do you have a flash state of the art phone? Do you want it to be your first device of choice and to be able to use it as your laptop too? Then read on._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 10 April 2021
 
 ## Introduction
@@ -55,7 +55,7 @@ We wrote briefly about keyboards and mice in the previous section. There are fou
   - If you don't want to use a lapdesk then perhaps a keyboard which has a monitor slot or Groove at the front of it much like the Logitech K780 keyboard could be the answer. I have one of those Logitech keyboards and it works great, in fact I can actually put a phone and tablet in the slot and it does the job.
   - If you are going to be using your keyboard and mouse alongside your flash new lapdesk (as described above), just be careful about the length of the keyboard because it may actually be longer than the lapdesk itself, meaning there is no room for the mouse to be placed. Unless of course you are using a keyboard kitted out with a trackpad.
   
-<img src="/assets/k780.webp" />
+<img src="/assets/k780.webp" />\
 Logictech K780 keyboard with device slot along the top.
 
 ### Connectivity to the Internet

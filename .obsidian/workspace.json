@@ -11,12 +11,14 @@
             "id": "22299f6af131d115",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/06_revert.png"
+                "file": "General/backing-up-your-web-data.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "06_revert"
+              "icon": "lucide-file",
+              "title": "backing-up-your-web-data"
             }
           }
         ]
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/06_revert.png",
+                "file": "General/backing-up-your-web-data.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,6 +190,12 @@
   },
   "active": "22299f6af131d115",
   "lastOpenFiles": [
+    "General/5-pet-peeves.md",
+    "Apps/Thunderbird.md",
+    "Apps/Standardnotes.md",
+    "Apps/Orbot.md",
+    "Apps/Invidious.md",
+    "assets/06_revert.png",
     "assets/5petpeeves.jpg",
     "assets/05_source.png",
     "assets/04_show.png",
@@ -212,10 +220,6 @@
     "General/readbtwnthelines.md",
     "General/phone-vs-laptop.md",
     "General/blog_old-school.md",
-    "General/backing-up-your-web-data.md",
-    "General/5-pet-peeves.md",
-    "Encryption/australia-encryption.md",
-    "Apps/Thunderbird.md",
     "X-Twitter-Starlink",
     "X-Twitter",
     "temp21128542567939813551785559698112",

@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _Like many, I've had enough virtual intrusion from the likes of Fakebook, Google, Twitter, YouTube and many other big tech players. So some of us are doing something about it. We're going back to the future: going old school._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Updated:** 5 November 2024
 
 ## Back to the Future?

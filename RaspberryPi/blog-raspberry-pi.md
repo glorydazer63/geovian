@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _The more I look into the Raspberry Pi phenomenon, the more excited I get._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Updated:** 5 November 2024
 
 Being on the road, a resource hungry device like a laptop is just not a workable solution considering its requirement for AC power, that is unless you have a hefty portable power station (with an inbuilt inverter).

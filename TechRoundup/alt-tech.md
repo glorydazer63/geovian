@@ -10,7 +10,7 @@ modified: 2026-08-06
 
 _People are sick of controlling tech, such as Facebook, Twitter etc. It's time for a change. A complete change!_
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 12 June 2024
 
 # Alt Tech

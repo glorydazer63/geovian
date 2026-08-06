@@ -9,7 +9,7 @@ modified: 2026-08-06
 
 <img src="/assets/rpicamera01.webp" />
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 4 April 2025
 
 ## Introduction

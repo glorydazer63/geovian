@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _We're midway through 2024 and things are starting to heat up in the Starlink space._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** July 21 2024
 
 _[Originally written in 2020]_

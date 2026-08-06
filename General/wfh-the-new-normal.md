@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _You can thank the COVID response and forced lockdowns for demonising the global workforce into 'working from home', a term now abbreviated to WFH._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 17 October 2021
 
 ## Introduction

@@ -10,7 +10,7 @@ modified: 2026-08-06
 
 _Are you a YouTube addict but not a fan of Google's orwellian overreach on your privacy? There is a solution and it's called Invidious._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 15 October 2020
 
 ## What is Invidious

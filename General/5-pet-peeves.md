@@ -9,7 +9,7 @@ modified: 2026-08-06
 
 _Modern society is so immersed in technology these days, but it doesn't take long for something to irk someone. What is your tech related pet peeve?_
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 10 July 2020
 
 ## It's not all that bad, isn't it?

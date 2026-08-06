@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _If you don't trust Big 'Brother' Tech, there are SOMETHING solutions to protect both you and your business interests._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Updated:** 25 March 2025
 
 ## Background

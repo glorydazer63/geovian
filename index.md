@@ -1,7 +1,6 @@
 ---
 title: Geovian Home
 author: Geovian
-<<<<<<< HEAD
 home: true
 description: Home Page
 created: 2026-07-24
@@ -9,14 +8,6 @@ modified: 2026-08-06
 ---
 
 <img src="/assets/montage.jpg" />
-=======
-description: Home Page
-created: 2026-07-24
-modified: 2026-08-01
----
-
-![[montage.jpg]]
->>>>>>> 1333e0cdb38b1cb14aa2a6cde756bb35f8c838eb
 
 Welcome to the Geovian website.
 
@@ -34,17 +25,10 @@ Our focus is mainly on Australian and New Zealand business communities.
 Regards "Geovian"
 
 Website built using the following:
-<<<<<<< HEAD
+
 - Obsidian 1.13.4 (markdown files creation)
 - Git (local machine commands, initialize, commit, push etc)
 - Node JS v 26.0.0
 - GitHub repo
 - Retype (GitHub Actions)
 - GitHub Pages (live publishing)
-=======
-- Obsidian (markdown files creation)
-- Git (local machine commands, initialize, commit, push etc)
-- GitHub repo
-- Retype (GitHub Actions)
-- GitHub Pages (live publishing)
->>>>>>> 1333e0cdb38b1cb14aa2a6cde756bb35f8c838eb

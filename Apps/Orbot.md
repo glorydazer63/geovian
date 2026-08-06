@@ -12,7 +12,7 @@ modified: 2026-08-06
 
 _Some of you might be familiar with TOR, otherwise known as The Onion Router. For those who are unaware, TOR provides an alternative gateway onto the Internet that bypasses your Internet Providers prying eyes._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 12 July 2023
 
 ## Introduction

@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _Trying to make sense of the gobbledegook of job vacancy ads._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 13 October 2024
 
 ## Introduction

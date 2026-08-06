@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _Explaining our DokuWiki setup process._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Updated:** 5 November 2024
 
 Here's a quick explainer as to how we set our DokuWiki instance up on our web server.

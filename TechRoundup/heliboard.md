@@ -11,7 +11,7 @@ modified: 2026-08-06
 
 _If you're using your mobile phone for writing and editing, then s virtual keyboard is essential. Some are better than others, including the excellent Heliboard._
 
-**Written By:** Geovian
+**Written By:** Geovian\
 **Date:** 17 March 2025
 
 ## Introduction
