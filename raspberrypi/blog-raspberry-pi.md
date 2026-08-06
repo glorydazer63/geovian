@@ -1,6 +1,6 @@
 # RaspberryPi Phenomenon
 
-!(/assets/rpi.jpg)
+[rpi.jpg](../../assets/rpi.jpg)
 
 _The more I look into the Raspberry Pi phenomenon, the more excited I get._
 

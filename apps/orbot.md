@@ -1,6 +1,6 @@
 # The "other" Gateway to the Internet
 
-!(/assets/orbot.jpg)
+[orbot.jpg](../../assets/orbot.jpg)
 
 _Some of you might be familiar with TOR, otherwise known as The Onion Router. For those who are unaware, TOR provides an alternative gateway onto the Internet that bypasses your Internet Providers prying eyes._
 

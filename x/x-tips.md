@@ -1,6 +1,6 @@
 # X/Twitter - Some Useful Productivity Tips
 
-!(/assets/x-logo.jpg)
+[x logo.jpg](../../assets/x-logo.jpg)
 
 _Back in 2017 I left Facebook. Immediately cutting off access to family and friends but steadfast in my refusal to bend the knee to Darth Zuckerberg. Instead I moved to Twitter, now X._
 

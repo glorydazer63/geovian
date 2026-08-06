@@ -1,6 +1,6 @@
 # DokuWiki Setup Process
 
-!(/assets/dwlogo.png)
+[dwlogo.png](../../assets/dwlogo.png)
 
 _Explaining our DokuWiki setup process._
 

@@ -1,6 +1,6 @@
 # Search Engine Round Up early 2025
 
-!(/assets/searchengines.jpg)
+[searchengines.jpg](../../assets/searchengines.jpg)
 
 _Listed below is the current state of play with the worlds most popular and active search engines._
 

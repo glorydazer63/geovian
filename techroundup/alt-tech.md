@@ -1,4 +1,4 @@
-!(/assets/alttech.webp)
+[alttech.webp](../../assets/alttech.webp)
 
 _People are sick of controlling tech, such as Facebook, Twitter etc. It's time for a change. A complete change!_
 

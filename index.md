@@ -1,4 +1,4 @@
-!(/assets/montage.jpg)
+[montage.jpg](assets/montage.jpg)
 
 Welcome to the Geovian website.
 

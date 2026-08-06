@@ -1,6 +1,6 @@
 # Tech Clutter
 
-!(/assets/clutter.jpg)
+[clutter.jpg](../../assets/clutter.jpg)
 
 _How do you know when you've collected too many tech toys? If you don't toss them out, does that mean you're a hoarder? Lol.
 
