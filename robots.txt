@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glorydazer63.github.io/geovian/sitemap.xml

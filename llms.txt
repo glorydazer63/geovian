@@ -1,0 +1,50 @@
+﻿# Geovian Home
+
+> Home Page
+
+- [Geovian Home](https://glorydazer63.github.io/geovian/index.md): Geovian Home
+
+## Apps
+
+- [Invidious](https://glorydazer63.github.io/geovian/apps/invidious.md): YouTube replacement
+- [Standardnotes](https://glorydazer63.github.io/geovian/apps/standardnotes.md): Standard Notes App
+- [Orbot](https://glorydazer63.github.io/geovian/apps/orbot.md): Orbot, TOR alternative
+- [Thunderbird](https://glorydazer63.github.io/geovian/apps/thunderbird.md): Thunderbird Mail Client
+
+## General
+
+- [5-pet-peeves](https://glorydazer63.github.io/geovian/general/5-pet-peeves.md): 5 Pet Peeves
+- [backing-up-your-web-data](https://glorydazer63.github.io/geovian/general/backing-up-your-web-data.md): Backing Up Your Web Data
+- [blog_old-school](https://glorydazer63.github.io/geovian/general/blog_old-school.md): Going Old School
+- [readbtwnthelines](https://glorydazer63.github.io/geovian/general/readbtwnthelines.md): Reading Between The Lines (Job Adverts)
+- [securing-your-business](https://glorydazer63.github.io/geovian/general/securing-your-business.md): Securing your Business
+- [tech-clutter](https://glorydazer63.github.io/geovian/general/tech-clutter.md): Tech Clutter
+- [upwork](https://glorydazer63.github.io/geovian/general/upwork.md): Upwork, or Downwork?
+- [wfh-the-new-normal](https://glorydazer63.github.io/geovian/general/wfh-the-new-normal.md): Work From Home - The New Normal?
+- [phone-vs-laptop](https://glorydazer63.github.io/geovian/general/phone-vs-laptop.md): Your Phone as a Computer
+
+## Mobile
+
+- [private-dns](https://glorydazer63.github.io/geovian/mobile/private-dns.md): Private DNS Using Adguard
+
+## RaspberryPi
+
+- [rpi-camera](https://glorydazer63.github.io/geovian/raspberrypi/rpi-camera.md): RaspberryPi Camera
+- [blog-raspberry-pi](https://glorydazer63.github.io/geovian/raspberrypi/blog-raspberry-pi.md): RaspberryPi Phenomenon
+
+## TechRoundup
+
+- [alt-tech](https://glorydazer63.github.io/geovian/techroundup/alt-tech.md): Alt Tech
+- [argon-uptonone-laptop](https://glorydazer63.github.io/geovian/techroundup/argon-uptonone-laptop.md): Argon Upton One laptop
+- [searchengineroundup](https://glorydazer63.github.io/geovian/techroundup/searchengineroundup.md): Search Engine Round Up early 2025
+- [heliboard](https://glorydazer63.github.io/geovian/techroundup/heliboard.md): The Heliboard Virtual Keyboard
+
+## Wiki
+
+- [dokuwiki-exploring-new-tech](https://glorydazer63.github.io/geovian/wiki/dokuwiki-exploring-new-tech.md): DokuWiki Exploring New Tech
+- [dokuwiki-setup](https://glorydazer63.github.io/geovian/wiki/dokuwiki-setup.md): # DokuWiki Setup Process
+
+## X
+
+- [starlink-in-australia](https://glorydazer63.github.io/geovian/x/starlink-in-australia.md): Starlink in Australia
+- [x-tips](https://glorydazer63.github.io/geovian/x/x-tips.md): X/Twitter - Some Useful Productivity Tips
