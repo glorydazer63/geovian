@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nostr/Useful Nostr Apps.md",
+                "file": "Wiki/dokuwiki-exploring-new-tech.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Useful Nostr Apps"
+              "title": "dokuwiki-exploring-new-tech"
             }
           }
         ],
@@ -52,7 +52,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
