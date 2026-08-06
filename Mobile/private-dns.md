@@ -7,7 +7,7 @@ modified: 2026-08-06
 ---
 # Private DNS Using Adguard
 
-[[assets/privatedns.png]]
+![[assets/privatedns.png]]
 
 _Explaining how to set up Private DNS on your devices._
 
@@ -52,7 +52,7 @@ Before we get started, Adguard have put up a page which identifies all of the de
 There are instructions for the iPhone, but because I don't use Apple products I'll focus on Android for this particular article.
 
 ### Steps
-[[assets/privatedns_mobile.png]]
+![[assets/privatedns_mobile.png]]
 
 **Enable Private DNS:**\\
  - Go to Settings > Network & Internet > 
@@ -98,7 +98,7 @@ Some might consider this a additional superfluous step but nonetheless you can d
 <code>https://dns.adguard-dns.com/dns-query</code>
 ```
 
-[[assets/privatedns_brave.jpg]]
+![[assets/privatedns_brave.jpg]]
 
 You don't need to save it, the setting is already saved once you've entered the URL. That's it.
 
