@@ -1,6 +1,6 @@
 # RaspberryPi Camera
 
-[rpicamera01.webp](../../assets/rpicamera01.webp)
+![[assets/rpicamera01.webp]]
 
 **Written By:** Geovian\
 **Date:** 4 April 2025
@@ -18,7 +18,7 @@ However, this new project using RaspberryPi resources has me intrigued. The came
 
 Refer to the Specifications link for full list of parts construction.
 
-[rpicamera02.webp](../../assets/rpicamera02.webp)
+![[assets/rpicamera02.webp]]
 
 ## The Detail
 The overall premise of this RPI camera design was to make an instant camera with the ability to print photos onto sticker paper more or less instantly. It uses Python code to stitch everything together at the software level. 

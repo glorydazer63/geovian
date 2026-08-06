@@ -1,6 +1,6 @@
 # Reading Between The Lines (Job Adverts)
 
-[jobads.jpg](../../assets/jobads.jpg)
+![[assets/jobads.jpg]]
 
 _Trying to make sense of the gobbledegook of job vacancy ads._
 

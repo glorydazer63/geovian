@@ -1,6 +1,6 @@
 ## Backing Up Your Web Data
 
-[databackup.jpg](../../assets/databackup.jpg)
+![[assets/databackup.jpg]]
 
 _The Internet back-chatter is all a flurry at the moment about the current version of the Internet potentially closing down completely and replaced by something new. A bit of a doomsday scenario I know but what if, it did go down, then what happens to your data wherever it is stored?_
 

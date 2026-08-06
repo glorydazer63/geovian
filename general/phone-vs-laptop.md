@@ -1,6 +1,6 @@
 # Your Phone as a Computer
 
-[phonevcomp.jpg](../../assets/phonevcomp.jpg)
+![[assets/phonevcomp.jpg]]
 
 _Do you have a flash state of the art phone? Do you want it to be your first device of choice and to be able to use it as your laptop too? Then read on._
 
@@ -48,7 +48,7 @@ We wrote briefly about keyboards and mice in the previous section. There are fou
   - If you don't want to use a lapdesk then perhaps a keyboard which has a monitor slot or Groove at the front of it much like the Logitech K780 keyboard could be the answer. I have one of those Logitech keyboards and it works great, in fact I can actually put a phone and tablet in the slot and it does the job.
   - If you are going to be using your keyboard and mouse alongside your flash new lapdesk (as described above), just be careful about the length of the keyboard because it may actually be longer than the lapdesk itself, meaning there is no room for the mouse to be placed. Unless of course you are using a keyboard kitted out with a trackpad.
   
-[k780.webp](../../assets/k780.webp)\
+![[assets/k780.webp]]\
 Logictech K780 keyboard with device slot along the top.
 
 ### Connectivity to the Internet
@@ -72,7 +72,7 @@ It would be remiss of me to not make mention of some portable monitors that I wo
 ### Nexdock 360
 Nexdock is an American company that has produced so far, four iterations of its portable monitor range, for which the 360 is the most current. It's full-bore touchscreen with a hinge that allows for the two surfaces (screen and keyboard) to completely fold over 360°, hence the name.
 
-[nexdock360.webp](../../assets/nexdock360.webp)
+![[assets/nexdock360.webp]]
 
 It's obvious to me that Nexdock have some great products but they come with a few caveats:
 

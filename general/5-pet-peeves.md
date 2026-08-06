@@ -1,4 +1,4 @@
-[5petpeeves.jpg](../../assets/5petpeeves.jpg)
+![[assets/5petpeeves.jpg]]
 
 _Modern society is so immersed in technology these days, but it doesn't take long for something to irk someone. What is your tech related pet peeve?_
 
