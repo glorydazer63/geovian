@@ -1,0 +1,20 @@
+input: .
+output: .retype
+
+url: https://glorydazer63.github.io/geovian # Use your website address here
+
+start:
+  # index
+  pro: true
+
+branding:
+  title: Geovian
+  label: Docs
+
+links:
+  - text: Getting Started
+    link: https://retype.com/guides/getting-started/
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  build specs: "Obisidian 1.4.3, Retype CMS 4.6.0, NodeJS 26.0.0, Github (Repo, Actions, Pages)
