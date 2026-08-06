@@ -1,6 +1,6 @@
 # Work From Home - The New Normal?
 
-<img src="/assets/workfromhome.jpg" />
+!(/assets/workfromhome.jpg)
 
 _You can thank the COVID response and forced lockdowns for demonising the global workforce into 'working from home', a term now abbreviated to WFH._
 

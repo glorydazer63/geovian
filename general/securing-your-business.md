@@ -1,6 +1,6 @@
 # Securing your Business
 
-<img src="/assets/bizlock.jpg" />
+!(/assets/bizlock.jpg)
 
 _If you don't trust Big 'Brother' Tech, there are SOMETHING solutions to protect both you and your business interests._
 

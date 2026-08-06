@@ -1,6 +1,6 @@
 # Going Old School
 
-<img src="/assets/oldschool.jpg" />
+!(/assets/oldschool.jpg)
 
 _Like many, I've had enough virtual intrusion from the likes of Fakebook, Google, Twitter, YouTube and many other big tech players. So some of us are doing something about it. We're going back to the future: going old school._
 
