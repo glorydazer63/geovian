@@ -1,8 +1,8 @@
-﻿# Geovian Home
+﻿# Home
 
 > Home Page
 
-- [Geovian Home](https://glorydazer63.github.io/geovian/index.md): Geovian Home
+- [Home](https://glorydazer63.github.io/geovian/index.md): Home
 
 ## Apps
 
