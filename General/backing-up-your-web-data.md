@@ -2,8 +2,10 @@
 title: backing-up-your-web-data
 author: Geovian
 description: Backing Up Your Web Data
+tags:
+  - Backups
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 ## Backing Up Your Web Data
 

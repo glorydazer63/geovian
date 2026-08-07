@@ -2,8 +2,12 @@
 title: argon-uptonone-laptop
 author: Geovian
 description: Argon Upton One laptop
+tags:
+  - Argon-40
+  - Upton-One
+  - Laptop
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 
 ![[assets/argon_uptonone.webp]]

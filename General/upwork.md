@@ -2,8 +2,11 @@
 title: upwork
 author: Geovian
 description: Upwork, or Downwork?
+tags:
+  - Upwork
+  - Freelancing
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # Upwork, or Downwork?
 

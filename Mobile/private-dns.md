@@ -2,8 +2,11 @@
 title: private-dns
 author: Geovian
 description: Private DNS Using Adguard
+tags:
+  - PrivateDNS
+  - AdGuard
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # Private DNS Using Adguard
 
@@ -86,7 +89,8 @@ For me personally, I have always avoided using Google Chrome and Microsoft Edge 
 Instead I have preferred to use Brave, and at a pinch, particularly on my computer laptops: Firefox, though I mostly use Brave on Linux as well.
 
 On mobile though, remember that the entirety of your device is covered by Adguard through the previous steps that we documented as above.
-Some might consider this a additional superfluous step but nonetheless you can do it. In the example, I'll use Brave Browser to demonstrate.
+Some might consider this a additional superfluous step but nonetheless you can do it, though I recommend you use one or the other.
+In the example, I'll use Brave Browser to demonstrate.
 
   - on your Brave Browser, click the three dot menu, and go to the **Settings** option.
   - Click on the option at the top of the list, **Brave Shields and Privacy**.

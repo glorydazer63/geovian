@@ -3,7 +3,7 @@ title: 5-pet-peeves
 author: Geovian
 description: 5 Pet Peeves
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 ![[assets/5petpeeves.jpg]]
 

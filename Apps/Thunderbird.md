@@ -2,8 +2,12 @@
 title: Thunderbird
 author: Geovian
 description: Thunderbird Mail Client
+tags:
+  - Email
+  - Thunderbird
+  - K9-Mail
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # Thunderbird - The Eagle Has Landed!
 

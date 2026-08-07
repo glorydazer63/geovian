@@ -2,8 +2,11 @@
 title: heliboard
 author: Geovian
 description: The Heliboard Virtual Keyboard
+tags:
+  - Heliboard
+  - Soft-Keyboard
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # The Heliboard Virtual Keyboard
 

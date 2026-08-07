@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/dokuwiki-exploring-new-tech.md",
+                "file": "General/wfh-the-new-normal.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "dokuwiki-exploring-new-tech"
+              "title": "wfh-the-new-normal"
             }
           }
         ],
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nostr/Useful Nostr Apps.md",
+            "file": "index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -189,6 +189,26 @@
   },
   "active": "3a5fe6e9ba75ed16",
   "lastOpenFiles": [
+    "General/upwork.md",
+    "General/securing-your-business.md",
+    "General/readbtwnthelines.md",
+    "General/phone-vs-laptop.md",
+    "General/blog_old-school.md",
+    "General/backing-up-your-web-data.md",
+    "General/5-pet-peeves.md",
+    "Apps/Thunderbird.md",
+    "Apps/Standardnotes.md",
+    "Apps/Orbot.md",
+    "Apps/Invidious.md",
+    "Mobile/private-dns.md",
+    "TechRoundup/searchengineroundup.md",
+    "TechRoundup/heliboard.md",
+    "TechRoundup/argon-uptonone-laptop.md",
+    "TechRoundup/alt-tech.md",
+    "RaspberryPi/rpi-camera.md",
+    "RaspberryPi/blog-raspberry-pi.md",
+    "Wiki/dokuwiki-setup.md",
+    "Wiki/dokuwiki-exploring-new-tech.md",
     "index.md",
     "Nostr/Useful Nostr Apps.md",
     "Main Template.md",
@@ -198,28 +218,8 @@
     "X-Twitter-Starlink/starlink-in-australia.md",
     "X-Twitter-Starlink",
     "temp71831385888163549661785559749483",
-    "temp21128542567939813551785559698112/x-tips.md",
-    "temp21128542567939813551785559698112/starlink-in-australia.md",
     "temp21128542567939813551785559698112",
     "X-Twitter-Starlink",
-    "temp89454923425979261551785559677891",
-    "Apps/Thunderbird.md",
-    "Apps/Standardnotes.md",
-    "Apps/Orbot.md",
-    "Apps/Invidious.md",
-    "Encryption/australia-encryption.md",
-    "General/wfh-the-new-normal.md",
-    "General/upwork.md",
-    "General/tech-clutter.md",
-    "General/securing-your-business.md",
-    "General/readbtwnthelines.md",
-    "General/phone-vs-laptop.md",
-    "General/blog_old-school.md",
-    "General/backing-up-your-web-data.md",
-    "General/5-pet-peeves.md",
-    "Wiki/dokuwiki-exploring-new-tech.md",
-    "Tech Roundup/searchengineroundup.md",
-    "Tech Roundup/heliboard.md",
-    "Tech Roundup/argon-uptonone-laptop.md"
+    "temp89454923425979261551785559677891"
   ]
 }

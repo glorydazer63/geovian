@@ -17,4 +17,3 @@ links:
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
-  build specs: "Obisidian 1.4.3, Retype CMS 4.6.0, NodeJS 26.0.0, Github (Repo, Actions, Pages)"

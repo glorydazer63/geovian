@@ -2,8 +2,10 @@
 title: rpi-camera
 author: Geovian
 description: RaspberryPi Camera
+tags:
+  - RaspberryPi
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # RaspberryPi Camera
 

@@ -2,8 +2,10 @@
 title: dokuwiki-exploring-new-tech
 author: Geovian
 description: DokuWiki Exploring New Tech
+tags:
+  - wiki
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 
 # DokuWiki Exploring New Tech

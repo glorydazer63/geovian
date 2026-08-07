@@ -2,8 +2,10 @@
 title: blog-raspberry-pi
 author: Geovian
 description: RaspberryPi Phenomenon
+tags:
+  - RaspberryPi
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # RaspberryPi Phenomenon
 

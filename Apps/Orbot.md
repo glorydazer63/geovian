@@ -2,8 +2,11 @@
 title: Orbot
 author: Geovian
 description: Orbot, TOR alternative
+tags:
+  - Orbot
+  - TOR
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 
 # The "other" Gateway to the Internet

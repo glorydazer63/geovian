@@ -3,7 +3,7 @@ title: phone-vs-laptop
 author: Geovian
 description: Your Phone as a Computer
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # Your Phone as a Computer
 

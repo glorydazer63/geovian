@@ -2,6 +2,7 @@
 title: Invidious
 author: Geovian
 description: YouTube replacement
+tags: ["Invidious". "YouTube"]
 created: 2026-07-24
 modified: 2026-08-06
 ---

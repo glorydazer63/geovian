@@ -2,8 +2,10 @@
 title: wfh-the-new-normal
 author: Geovian
 description: Work From Home - The New Normal?
+tags:
+  - Work-From-Home
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # Work From Home - The New Normal?
 

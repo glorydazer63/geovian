@@ -2,8 +2,10 @@
 title: readbtwnthelines
 author: Geovian
 description: Reading Between The Lines (Job Adverts)
+tags:
+  - Job-Adverts
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # Reading Between The Lines (Job Adverts)
 

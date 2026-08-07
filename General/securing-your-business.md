@@ -2,8 +2,10 @@
 title: securing-your-business
 author: Geovian
 description: Securing your Business
+tags:
+  - Security
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 # Securing your Business
 

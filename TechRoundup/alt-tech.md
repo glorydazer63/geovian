@@ -2,8 +2,10 @@
 title: alt-tech
 author: Geovian
 description: Alt Tech
+tags:
+  - Alternstive-Tech
 created: 2026-07-24
-modified: 2026-08-06
+modified: 2026-08-07
 ---
 
 ![[assets/alttech.webp]]
