@@ -18,8 +18,6 @@ links:
 footer:
   copyright: "&copy; {{ year }} Your Company"
   links:
-    - text: Build Spec
-      link: "Obsidian 1.4.3, NodeJS v26.0.0, Retype CMS, GitHub, Actions, Pages" 
     - text: GitHub
       link: https://github.com/glorydazer63
       icon: mark-github
