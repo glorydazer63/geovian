@@ -6,7 +6,7 @@
 
 ## Apps
 
-- [Invidious](https://glorydazer63.github.io/geovian/apps/invidious.md): YouTube replacement
+- [Invidious Video Player](https://glorydazer63.github.io/geovian/apps/invidious.md): Are you a YouTube addict but not a fan of Google's orwellian overreach on your privacy? There is a solution and it's called Invidious.
 - [Standardnotes](https://glorydazer63.github.io/geovian/apps/standardnotes.md): Standard Notes App
 - [Orbot](https://glorydazer63.github.io/geovian/apps/orbot.md): Orbot, TOR alternative
 - [Thunderbird](https://glorydazer63.github.io/geovian/apps/thunderbird.md): Thunderbird Mail Client
@@ -42,7 +42,7 @@
 ## Wiki
 
 - [dokuwiki-exploring-new-tech](https://glorydazer63.github.io/geovian/wiki/dokuwiki-exploring-new-tech.md): DokuWiki Exploring New Tech
-- [dokuwiki-setup](https://glorydazer63.github.io/geovian/wiki/dokuwiki-setup.md): # DokuWiki Setup Process
+- [dokuwiki-setup](https://glorydazer63.github.io/geovian/wiki/dokuwiki-setup.md): DokuWiki Setup Process
 
 ## X
 
