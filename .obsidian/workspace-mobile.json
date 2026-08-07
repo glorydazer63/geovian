@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/wfh-the-new-normal.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wfh-the-new-normal"
+              "title": "index"
             }
           }
         ],
@@ -189,6 +189,7 @@
   },
   "active": "3a5fe6e9ba75ed16",
   "lastOpenFiles": [
+    "General/wfh-the-new-normal.md",
     "General/upwork.md",
     "General/securing-your-business.md",
     "General/readbtwnthelines.md",
@@ -215,7 +216,6 @@
     "Template",
     "latest.md",
     "X-Twitter-Starlink/x-tips.md",
-    "X-Twitter-Starlink/starlink-in-australia.md",
     "X-Twitter-Starlink",
     "temp71831385888163549661785559749483",
     "temp21128542567939813551785559698112",
