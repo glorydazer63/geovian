@@ -1,6 +1,6 @@
 ---
 author: Geovian
-title: Geovian Home
+title: Home
 home: true
 description: Home Page
 created: 2026-07-24
