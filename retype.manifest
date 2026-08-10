@@ -1,0 +1,492 @@
+{
+  "version": "4.6.0",
+  "created": "2026-08-10T04:31:01Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "apps/invidious.md"
+    },
+    {
+      "path": "apps/invidious/index.html"
+    },
+    {
+      "path": "apps/orbot.md"
+    },
+    {
+      "path": "apps/orbot/index.html"
+    },
+    {
+      "path": "apps/standardnotes.md"
+    },
+    {
+      "path": "apps/standardnotes/index.html"
+    },
+    {
+      "path": "apps/thunderbird.md"
+    },
+    {
+      "path": "apps/thunderbird/index.html"
+    },
+    {
+      "path": "assets/04_show.png"
+    },
+    {
+      "path": "assets/05_source.png"
+    },
+    {
+      "path": "assets/06_revert.png"
+    },
+    {
+      "path": "assets/07_revisions.png"
+    },
+    {
+      "path": "assets/08_backlink.png"
+    },
+    {
+      "path": "assets/09_subscribe.png"
+    },
+    {
+      "path": "assets/10_top.png"
+    },
+    {
+      "path": "assets/11_mediamanager.png"
+    },
+    {
+      "path": "assets/12_back.png"
+    },
+    {
+      "path": "assets/5petpeeves.jpg"
+    },
+    {
+      "path": "assets/alttech.webp"
+    },
+    {
+      "path": "assets/apple-touch-icon.png"
+    },
+    {
+      "path": "assets/argon_uptonone.webp"
+    },
+    {
+      "path": "assets/austgovt.jpg"
+    },
+    {
+      "path": "assets/bizlock.jpg"
+    },
+    {
+      "path": "assets/button-css.png"
+    },
+    {
+      "path": "assets/button-donate.gif"
+    },
+    {
+      "path": "assets/button-dw.png"
+    },
+    {
+      "path": "assets/button-html5.png"
+    },
+    {
+      "path": "assets/button-php.gif"
+    },
+    {
+      "path": "assets/button-rss.png"
+    },
+    {
+      "path": "assets/clutter.jpg"
+    },
+    {
+      "path": "assets/communityicon_3g90a85rr6z71.webp"
+    },
+    {
+      "path": "assets/databackup.jpg"
+    },
+    {
+      "path": "assets/dl_fdroid.png"
+    },
+    {
+      "path": "assets/dl_google.jpg"
+    },
+    {
+      "path": "assets/dokuwiki.svg"
+    },
+    {
+      "path": "assets/dwlogo.png"
+    },
+    {
+      "path": "assets/favicon.ico"
+    },
+    {
+      "path": "assets/heliboard_voice.png"
+    },
+    {
+      "path": "assets/heliboard.png"
+    },
+    {
+      "path": "assets/jobads.jpg"
+    },
+    {
+      "path": "assets/k780.webp"
+    },
+    {
+      "path": "assets/license.txt"
+    },
+    {
+      "path": "assets/logo.png"
+    },
+    {
+      "path": "assets/montage.jpg"
+    },
+    {
+      "path": "assets/nexdock360.webp"
+    },
+    {
+      "path": "assets/oldschool.jpg"
+    },
+    {
+      "path": "assets/orbot.jpg"
+    },
+    {
+      "path": "assets/page-background.svg"
+    },
+    {
+      "path": "assets/page-gradient.png"
+    },
+    {
+      "path": "assets/pagetools-sprite.png"
+    },
+    {
+      "path": "assets/phonevcomp.jpg"
+    },
+    {
+      "path": "assets/preregister.png"
+    },
+    {
+      "path": "assets/privatedns_brave.jpg"
+    },
+    {
+      "path": "assets/privatedns_mobile.png"
+    },
+    {
+      "path": "assets/privatedns.png"
+    },
+    {
+      "path": "assets/rpi.jpg"
+    },
+    {
+      "path": "assets/rpicamera01.webp"
+    },
+    {
+      "path": "assets/rpicamera02.webp"
+    },
+    {
+      "path": "assets/search.png"
+    },
+    {
+      "path": "assets/searchengines.jpg"
+    },
+    {
+      "path": "assets/standardnotes.webp"
+    },
+    {
+      "path": "assets/starlink01b.png"
+    },
+    {
+      "path": "assets/thunderbird_biz.jpg"
+    },
+    {
+      "path": "assets/thunderbird.png"
+    },
+    {
+      "path": "assets/toc-arrows.png"
+    },
+    {
+      "path": "assets/toc-bullet.png"
+    },
+    {
+      "path": "assets/uptonone01.webp"
+    },
+    {
+      "path": "assets/uptonone02.webp"
+    },
+    {
+      "path": "assets/upwork.jpg"
+    },
+    {
+      "path": "assets/usertools.png"
+    },
+    {
+      "path": "assets/workfromhome.jpg"
+    },
+    {
+      "path": "assets/x-logo.jpg"
+    },
+    {
+      "path": "favicon.ico"
+    },
+    {
+      "path": "general/5-pet-peeves.md"
+    },
+    {
+      "path": "general/5-pet-peeves/index.html"
+    },
+    {
+      "path": "general/backing-up-your-web-data.md"
+    },
+    {
+      "path": "general/backing-up-your-web-data/index.html"
+    },
+    {
+      "path": "general/blog_old-school.md"
+    },
+    {
+      "path": "general/blog_old-school/index.html"
+    },
+    {
+      "path": "general/phone-vs-laptop.md"
+    },
+    {
+      "path": "general/phone-vs-laptop/index.html"
+    },
+    {
+      "path": "general/readbtwnthelines.md"
+    },
+    {
+      "path": "general/readbtwnthelines/index.html"
+    },
+    {
+      "path": "general/securing-your-business.md"
+    },
+    {
+      "path": "general/securing-your-business/index.html"
+    },
+    {
+      "path": "general/tech-clutter.md"
+    },
+    {
+      "path": "general/tech-clutter/index.html"
+    },
+    {
+      "path": "general/upwork.md"
+    },
+    {
+      "path": "general/upwork/index.html"
+    },
+    {
+      "path": "general/wfh-the-new-normal.md"
+    },
+    {
+      "path": "general/wfh-the-new-normal/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "index.md"
+    },
+    {
+      "path": "llms.txt"
+    },
+    {
+      "path": "mobile/private-dns.md"
+    },
+    {
+      "path": "mobile/private-dns/index.html"
+    },
+    {
+      "path": "package-lock.json"
+    },
+    {
+      "path": "package.json"
+    },
+    {
+      "path": "raspberrypi/blog-raspberry-pi.md"
+    },
+    {
+      "path": "raspberrypi/blog-raspberry-pi/index.html"
+    },
+    {
+      "path": "raspberrypi/rpi-camera.md"
+    },
+    {
+      "path": "raspberrypi/rpi-camera/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/instagram.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml"
+    },
+    {
+      "path": "tags/adguard/index.html"
+    },
+    {
+      "path": "tags/alternstive-tech/index.html"
+    },
+    {
+      "path": "tags/argon-40/index.html"
+    },
+    {
+      "path": "tags/backups/index.html"
+    },
+    {
+      "path": "tags/email/index.html"
+    },
+    {
+      "path": "tags/freelancing/index.html"
+    },
+    {
+      "path": "tags/heliboard/index.html"
+    },
+    {
+      "path": "tags/index.html"
+    },
+    {
+      "path": "tags/invidious/index.html"
+    },
+    {
+      "path": "tags/job-adverts/index.html"
+    },
+    {
+      "path": "tags/k9-mail/index.html"
+    },
+    {
+      "path": "tags/laptop/index.html"
+    },
+    {
+      "path": "tags/note-taking/index.html"
+    },
+    {
+      "path": "tags/orbot/index.html"
+    },
+    {
+      "path": "tags/privatedns/index.html"
+    },
+    {
+      "path": "tags/raspberrypi/index.html"
+    },
+    {
+      "path": "tags/search-engines/index.html"
+    },
+    {
+      "path": "tags/security/index.html"
+    },
+    {
+      "path": "tags/soft-keyboard/index.html"
+    },
+    {
+      "path": "tags/standard-notes/index.html"
+    },
+    {
+      "path": "tags/thunderbird/index.html"
+    },
+    {
+      "path": "tags/tor/index.html"
+    },
+    {
+      "path": "tags/upton-one/index.html"
+    },
+    {
+      "path": "tags/upwork/index.html"
+    },
+    {
+      "path": "tags/wiki/index.html"
+    },
+    {
+      "path": "tags/work-from-home/index.html"
+    },
+    {
+      "path": "tags/youtube/index.html"
+    },
+    {
+      "path": "techroundup/alt-tech.md"
+    },
+    {
+      "path": "techroundup/alt-tech/index.html"
+    },
+    {
+      "path": "techroundup/argon-uptonone-laptop.md"
+    },
+    {
+      "path": "techroundup/argon-uptonone-laptop/index.html"
+    },
+    {
+      "path": "techroundup/heliboard.md"
+    },
+    {
+      "path": "techroundup/heliboard/index.html"
+    },
+    {
+      "path": "techroundup/searchengineroundup.md"
+    },
+    {
+      "path": "techroundup/searchengineroundup/index.html"
+    },
+    {
+      "path": "wiki/dokuwiki-exploring-new-tech.md"
+    },
+    {
+      "path": "wiki/dokuwiki-exploring-new-tech/index.html"
+    },
+    {
+      "path": "wiki/dokuwiki-setup.md"
+    },
+    {
+      "path": "wiki/dokuwiki-setup/index.html"
+    },
+    {
+      "path": "x/starlink-in-australia.md"
+    },
+    {
+      "path": "x/starlink-in-australia/index.html"
+    },
+    {
+      "path": "x/x-tips.md"
+    },
+    {
+      "path": "x/x-tips/index.html"
+    }
+  ]
+}

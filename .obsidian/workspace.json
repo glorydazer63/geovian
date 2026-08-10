@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d26ad5e29f7d854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25da0cbcde426e8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7edd5d07811369e",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e6739d5d34b2ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1e26aaf8410deba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ede6bb16869f9157",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b15afd3dd3ca6892",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "right": {
+    "id": "cb40480466217842",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae869e5ccb15534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ff03c50dfd1501",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f8316321f42dd96c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "rpi_camera.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from rpi_camera"
+            }
+          },
+          {
+            "id": "9cdfc86af694d0f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16ea2fa8453e1959",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3c132a3352ed57ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "retype:Retype": false
+    }
+  },
+  "active": "25da0cbcde426e8c",
+  "lastOpenFiles": [
+    "index.md",
+    "General/backing-up-your-web-data.md",
+    "retype.yml",
+    "General/5-pet-peeves.md",
+    "Apps/Thunderbird.md",
+    "Apps/Standardnotes.md",
+    "Apps/Orbot.md",
+    "Apps/Invidious.md",
+    "assets/06_revert.png",
+    "assets/5petpeeves.jpg",
+    "assets/05_source.png",
+    "assets/04_show.png",
+    "X/x-tips.md",
+    "latest.md",
+    "X/starlink-in-australia.md",
+    "Wiki/dokuwiki-setup.md",
+    "Wiki/dokuwiki-exploring-new-tech.md",
+    "TechRoundup/searchengineroundup.md",
+    "TechRoundup/heliboard.md",
+    "TechRoundup/argon-uptonone-laptop.md",
+    "TechRoundup/alt-tech.md",
+    "RaspberryPi/rpi-camera.md",
+    "RaspberryPi/blog-raspberry-pi.md",
+    "Nostr/Useful Nostr Apps.md",
+    "Mobile/private-dns.md",
+    "General/wfh-the-new-normal.md",
+    "General/upwork.md",
+    "General/tech-clutter.md",
+    "General/securing-your-business.md",
+    "General/readbtwnthelines.md",
+    "General/phone-vs-laptop.md",
+    "X-Twitter-Starlink",
+    "X-Twitter",
+    "temp21128542567939813551785559698112",
+    "X Twitter Starlink",
+    "Tech Roundup",
+    "assets/x-logo.jpg",
+    "assets/upwork.jpg",
+    "ZZ NON PUBLISH",
+    "Mobile",
+    "Wiki",
+    "Nostr"
+  ]
+}

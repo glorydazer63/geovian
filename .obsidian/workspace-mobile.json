@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nostr/Useful Nostr Apps.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Useful Nostr Apps"
+            }
+          },
+          {
+            "id": "3a5fe6e9ba75ed16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1183a25a31140f82",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e18e40db3d996fe3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "af4aa756b7db2f17",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "cdc0a4b22c82f074",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7e478f2232b5a858",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "0ee7ca85e6d44c7d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9f6a047b15e05d94",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "67c0c8e38d312b1a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "index.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "db12d3495243a350",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "General/5-pet-peeves.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2a451b73ee32dcee",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "General/5-pet-peeves.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3a5fe6e9ba75ed16",
+  "lastOpenFiles": [
+    "General/wfh-the-new-normal.md",
+    "General/upwork.md",
+    "General/securing-your-business.md",
+    "General/readbtwnthelines.md",
+    "General/phone-vs-laptop.md",
+    "General/blog_old-school.md",
+    "General/backing-up-your-web-data.md",
+    "General/5-pet-peeves.md",
+    "Apps/Thunderbird.md",
+    "Apps/Standardnotes.md",
+    "Apps/Orbot.md",
+    "Apps/Invidious.md",
+    "Mobile/private-dns.md",
+    "TechRoundup/searchengineroundup.md",
+    "TechRoundup/heliboard.md",
+    "TechRoundup/argon-uptonone-laptop.md",
+    "TechRoundup/alt-tech.md",
+    "RaspberryPi/rpi-camera.md",
+    "RaspberryPi/blog-raspberry-pi.md",
+    "Wiki/dokuwiki-setup.md",
+    "Wiki/dokuwiki-exploring-new-tech.md",
+    "index.md",
+    "Nostr/Useful Nostr Apps.md",
+    "Main Template.md",
+    "Template",
+    "latest.md",
+    "X-Twitter-Starlink/x-tips.md",
+    "X-Twitter-Starlink",
+    "temp71831385888163549661785559749483",
+    "temp21128542567939813551785559698112",
+    "X-Twitter-Starlink",
+    "temp89454923425979261551785559677891"
+  ]
+}

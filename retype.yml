@@ -1,0 +1,24 @@
+input: .
+output: .retype
+
+url: https://glorydazer63.github.io/geovian
+
+start:
+  # index
+  pro: true
+
+branding:
+  title: Geovian
+  label: Docs
+
+links:
+  - text: Using Retype
+    link: https://retype.com/guides/getting-started/
+    
+footer:
+  copyright: "&copy; {{ year }} Geovian Publishing"
+  links:
+    - text: GitHub
+      link: https://github.com/glorydazer63
+      icon: mark-github
+      target: blank
