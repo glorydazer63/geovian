@@ -14,11 +14,6 @@ branding:
 links:
   - text: Using Retype
     link: https://retype.com/guides/getting-started/
-    target: _blank
- - text: Google Search
-    link: /google-search.md
-    icon: ":mag_right:"
-    target: _blank
     
 footer:
   copyright: "&copy; {{ year }} Geovian Publishing"
@@ -26,4 +21,4 @@ footer:
     - text: GitHub
       link: https://github.com/glorydazer63
       icon: mark-github
-      target: _blank
+      target: blank
