@@ -17,7 +17,6 @@ links:
     target: _blank
  - text: Google Search
     link: /google-search.md
-    icon: ":mag_right:"
     target: _blank
     
 footer:
