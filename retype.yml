@@ -16,7 +16,7 @@ links:
     link: https://retype.com/guides/getting-started/
     target: _blank
   - text: Google Search
-    action: /google-search.md
+    link: https://glorydazer63.github.io/geovian/google-search.md
     target: _blank
     
 footer:
