@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://glorydazer63.github.io/geovian# Use your website address here/sitemap.xml
