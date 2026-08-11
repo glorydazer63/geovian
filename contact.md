@@ -27,7 +27,7 @@ modified: 2026-08-11
       border-radius: 4px;
     }
     .my-contact-form button {
-      color: #cccccc;
+      background-color #FF3131;
     }
   </style>
   
@@ -40,3 +40,7 @@ modified: 2026-08-11
 </form>
 
 ---
+
+## Our Details:
+Email: georget@posteo.com\
+GitHub: https://github.com/glorydazer63
