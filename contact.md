@@ -16,7 +16,7 @@
       border-radius: 4px;
     }
     .my-contact-form button {
-      color: #cccccc;
+      background-color #FF3131;
     }
   </style>
   
@@ -29,3 +29,7 @@
 </form>
 
 ---
+
+## Our Details:
+Email: georget@posteo.com\
+GitHub: https://github.com/glorydazer63
