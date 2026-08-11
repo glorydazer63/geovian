@@ -26,3 +26,9 @@ footer:
       link: https://github.com/glorydazer63
       icon: mark-github
       target: _blank
+    - text: About Us
+      link: /about/
+      target: _blank
+    - text: Contact Us
+       link: /contact/
+       target: _blank
