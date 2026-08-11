@@ -3,6 +3,8 @@
 > Home Page
 
 - [Home](https://glorydazer63.github.io/geovian/index.md): Home
+- [About](https://glorydazer63.github.io/geovian/about.md): About Us
+- [Contact](https://glorydazer63.github.io/geovian/contact.md): Contact
 - [Google-Search](https://glorydazer63.github.io/geovian/google-search.md): Google Search
 
 ## Apps
