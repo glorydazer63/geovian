@@ -4,6 +4,6 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Andale Mono",
-  "accentColor": "#ffff00",
-  "theme": "obsidian"
+  "accentColor": "#0000ff",
+  "theme": "moonstone"
 }
