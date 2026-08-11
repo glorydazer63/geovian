@@ -27,8 +27,8 @@ footer:
       icon: mark-github
       target: _blank
     - text: About Us
-      link: /about/
+      link: /about.md/
       target: _blank
     - text: Contact Us
-       link: /contact/
-       target: _blank
+      link: /contact.md/
+      target: _blank
