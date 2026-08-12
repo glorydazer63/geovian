@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contact.md",
+                "file": "Latest/leaving-github.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "contact"
+              "title": "leaving-github"
+            }
+          },
+          {
+            "id": "8093f61f16a9a109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -175,7 +189,12 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "index.md",
+    "Latest/leaving-github.md",
+    "Latest",
+    "node_modules/amdefine/README.md",
+    "about.md",
     "contact.md",
+    "google-search.md",
     "General/wfh-the-new-normal.md",
     "General/upwork.md",
     "General/securing-your-business.md",
@@ -196,11 +215,7 @@
     "RaspberryPi/rpi-camera.md",
     "RaspberryPi/blog-raspberry-pi.md",
     "Wiki/dokuwiki-setup.md",
-    "Wiki/dokuwiki-exploring-new-tech.md",
-    "Nostr/Useful Nostr Apps.md",
-    "Main Template.md",
     "Template",
-    "latest.md",
     "X-Twitter-Starlink",
     "temp71831385888163549661785559749483",
     "temp21128542567939813551785559698112",

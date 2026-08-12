@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Circuit",
   "baseFontSize": 20,
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Andale Mono",
-  "accentColor": "#0000ff",
-  "theme": "moonstone"
+  "accentColor": "#3f9990",
+  "theme": "obsidian"
 }

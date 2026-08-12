@@ -7,7 +7,7 @@ tags:
   - google
   - search
 created: 2026-07-07
-modified: 2026-08-10
+modified: 2026-08-11
 ---
 All of my static websites will include a Google Search option for users.
 
@@ -17,6 +17,6 @@ Enter in Search terms in the Google box below, then click on the **SEARCH** link
 
 <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
 <input name="sitesearch" type="hidden" value="glorydazer63.github.io/geovian">
-<input autocomplete="on" class="form-control search" name="q" placeholder="Search in Geovian" required="required"  type="text">
+<input autocomplete="on" class="form-control search" name="q" placeholder="Search in Geovian" required="required"  type="text"><br/><br />
 <button class="button" type="submit">Search</button>
 </form>
