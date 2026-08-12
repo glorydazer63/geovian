@@ -26,6 +26,10 @@
 - [wfh-the-new-normal](https://glorydazer63.github.io/geovian/general/wfh-the-new-normal.md): Work From Home - The New Normal?
 - [phone-vs-laptop](https://glorydazer63.github.io/geovian/general/phone-vs-laptop.md): Your Phone as a Computer
 
+## Latest
+
+- [Leaving GitHub](https://glorydazer63.github.io/geovian/latest/leaving-github.md): Leaving GitHub. A Decentralized Git Alternative on Nostr.
+
 ## Mobile
 
 - [private-dns](https://glorydazer63.github.io/geovian/mobile/private-dns.md): Private DNS Using Adguard

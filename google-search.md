@@ -6,6 +6,6 @@ Enter in Search terms in the Google box below, then click on the **SEARCH** link
 
 <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
 <input name="sitesearch" type="hidden" value="glorydazer63.github.io/geovian">
-<input autocomplete="on" class="form-control search" name="q" placeholder="Search in Geovian" required="required"  type="text">
+<input autocomplete="on" class="form-control search" name="q" placeholder="Search in Geovian" required="required"  type="text"><br/><br />
 <button class="button" type="submit">Search</button>
 </form>

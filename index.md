@@ -1,5 +1,6 @@
 ![[assets/montage.jpg]]
 
+## Introduction
 The Geovian website is our tech blog site looking at new and topical innovations and industry trends in the world of Technology Development. We've been busy doing other things since our first online foray back during the pre Covid era, but now we're looking to pick up the pace in 2026 and beyond.
 
 This Website is built using the following tools:
@@ -11,3 +12,6 @@ This Website is built using the following tools:
 - GitHub repo (version control) 
 - Retype (GitHub Actions)
 - GitHub Pages (live publishing)
+
+## Latest Articles
+- [Leaving GitHub](/latest/leaving-github.md)
